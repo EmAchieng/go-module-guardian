@@ -446,7 +446,7 @@ Manual `go mod tidy` and dependency review
 Automatically run `go mod tidy` and fail the build if changes are detected
 
 ```yaml
-# .github/workflows/go.yml (snippet)
+# .github/workflows/ci.yml (snippet)
 - name: Tidy modules
   run: go mod tidy
 - name: Check for changes

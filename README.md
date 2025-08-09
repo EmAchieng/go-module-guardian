@@ -46,7 +46,7 @@ Visit [http://localhost:8080/users](http://localhost:8080/users) to see the demo
 
 ---
 
-## 🧹 Dependency Management Concepts
+## Dependency Management Concepts
 
 - **go.mod & go.sum:**  
   Track all dependencies and their versions.  
