@@ -11,7 +11,7 @@
 [![govulncheck](https://img.shields.io/badge/security-govulncheck-blue)](https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck)
 
 Welcome!  
-This project is a practical demonstration for **GopherCon UK 2025**.  
+This project is a practical demonstration for my talk at **GopherCon UK 2025**.  
 It focuses on Go module dependency management, cleanup, security scanning, and CI automation in a minimal project.
 
 _Slides for this talk ([slides.md](./slides.md)) were prepared using [Marp](https://marp.app/) for Markdown-based presentations._
