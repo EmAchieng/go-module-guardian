@@ -105,15 +105,6 @@ Visit [http://localhost:8080/users](http://localhost:8080/users) to see the demo
 
 ---
 
-## References
-
-- [Go Modules Reference](https://golang.org/ref/mod)
-- [Gin Web Framework](https://github.com/gin-gonic/gin)
-- [govulncheck](https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck)
-- [Go Dependency Management Best Practices](https://blog.golang.org/using-go-modules)
-
----
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
