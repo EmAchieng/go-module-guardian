@@ -9,6 +9,8 @@
 [![Slides with Marp](https://img.shields.io/badge/slides-marp-blue?logo=marp)](https://marp.app/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue?logo=docker)](https://www.docker.com/)
 [![govulncheck](https://img.shields.io/badge/security-govulncheck-blue)](https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck)
+[![CI](https://github.com/EmAchieng/go-module-guardian/actions/workflows/ci.yml/badge.svg)](https://github.com/EmAchieng/go-module-guardian/actions/workflows/ci.yml)
+
 
 Welcome!  
 This project is a practical demonstration for my talk at **GopherCon UK 2025**.  
