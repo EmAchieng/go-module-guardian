@@ -7,6 +7,8 @@
 [![Code Style: gofmt](https://img.shields.io/badge/code%20style-gofmt-brightgreen.svg)](https://golang.org/doc/go1.22#gofmt)
 [![License](https://img.shields.io/github/license/EmAchieng/module-guardian)](./LICENSE)
 [![Slides with Marp](https://img.shields.io/badge/slides-marp-blue?logo=marp)](https://marp.app/)
+[![Docker](https://img.shields.io/badge/docker-ready-blue?logo=docker)](https://www.docker.com/)
+[![govulncheck](https://img.shields.io/badge/security-govulncheck-blue)](https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck)
 
 Welcome!  
 This project is a practical demonstration for **GopherCon UK 2025**.  
