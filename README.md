@@ -1,7 +1,7 @@
 # Dependency Management
 
-[![Go Version](https://img.shields.io/github/go-mod/go-version/EmAchieng/module-guardian)](https://golang.org/doc/go1.22)
-[![Last Commit](https://img.shields.io/github/last-commit/EmAchieng/module-guardian)](https://github.com/EmAchieng/module-guardian/commits)
+[![Go Version](https://img.shields.io/badge/go%20version-go1.24-blue)](https://golang.org/doc/go1.24)
+[![Last Commit](https://img.shields.io/github/last-commit/EmAchieng/go-module-guardian)](https://github.com/EmAchieng/go-module-guardian/commits)
 [![Issues](https://img.shields.io/github/issues/EmAchieng/go-module-guardian)](https://github.com/EmAchieng/go-module-guardian/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/EmAchieng/go-module-guardian)](https://github.com/EmAchieng/go-module-guardian/pulls)
 [![Code Style: gofmt](https://img.shields.io/badge/code%20style-gofmt-brightgreen.svg)](https://golang.org/doc/go1.22#gofmt)
