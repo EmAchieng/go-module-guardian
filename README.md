@@ -2,10 +2,10 @@
 
 [![Go Version](https://img.shields.io/github/go-mod/go-version/EmAchieng/module-guardian)](https://golang.org/doc/go1.22)
 [![Last Commit](https://img.shields.io/github/last-commit/EmAchieng/module-guardian)](https://github.com/EmAchieng/module-guardian/commits)
-[![Issues](https://img.shields.io/github/issues/EmAchieng/module-guardian)](https://github.com/EmAchieng/module-guardian/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/EmAchieng/module-guardian)](https://github.com/EmAchieng/module-guardian/pulls)
+[![Issues](https://img.shields.io/github/issues/EmAchieng/go-module-guardian)](https://github.com/EmAchieng/go-module-guardian/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/EmAchieng/go-module-guardian)](https://github.com/EmAchieng/go-module-guardian/pulls)
 [![Code Style: gofmt](https://img.shields.io/badge/code%20style-gofmt-brightgreen.svg)](https://golang.org/doc/go1.22#gofmt)
-[![License](https://img.shields.io/github/license/EmAchieng/module-guardian)](./LICENSE)
+[![License](https://img.shields.io/github/license/EmAchieng/go-module-guardian)](./LICENSE)
 [![Slides with Marp](https://img.shields.io/badge/slides-marp-blue?logo=marp)](https://marp.app/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue?logo=docker)](https://www.docker.com/)
 [![govulncheck](https://img.shields.io/badge/security-govulncheck-blue)](https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck)
