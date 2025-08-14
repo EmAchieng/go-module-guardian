@@ -22,7 +22,7 @@ _Slides for this talk ([slides.md](./slides.md)) were prepared using [Marp](http
 ##  Getting Started
 
 **Requirements:**  
-- Go 1.22+
+- Go 1.24
 
 **Clone and Run:**
 ```sh
